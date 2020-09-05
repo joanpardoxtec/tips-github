@@ -1,5 +1,10 @@
 # tips útils a github
 
+## Problemes a l'hora de fer un ```git push``` amb tema de permisos a Windows
+
+![credential_manager.png](/images/credential_manager.png)
+
+
 ## Renombrar una carpeta
 
 Si volem renombrar la carpeta **Presentacions** a **presentacions**:
