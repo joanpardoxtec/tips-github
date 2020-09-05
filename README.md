@@ -19,3 +19,6 @@ $ git add .
 $ git commit -am "canvi a presentacions"
 $ git push origin master
 ```
+
+
+[comment]: <enllaç d'origen> (https://stackoverflow.com/questions/31861651/how-to-rename-a-directory-folder-on-github-website/50051538#50051538?newreg=e86a1521a60244e19da979ba754da32e)
