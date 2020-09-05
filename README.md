@@ -2,7 +2,7 @@
 
 ## Renombrar una carpeta
 
-Si volem renombrar la carpeta Presentacions a presentacions
+Si volem renombrar la carpeta **Presentacions** a **presentacions**:
 ```bash
 $ git ls-files
 $ git mv Presentacions presentacions_temp
